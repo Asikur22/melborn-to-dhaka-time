@@ -170,4 +170,4 @@ MIT License - feel free to use this project for personal or commercial purposes.
 
 ---
 
-Made with ❤️ for anyone who needs to coordinate between Melbourne and Dhaka!
+Made with ❤️ by **Asiqur Rahman** for anyone who needs to coordinate between Melbourne and Dhaka!

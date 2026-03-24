@@ -25,7 +25,7 @@ const elements = {
     melbourneTz: document.getElementById('melbourne-tz'),
     melbourneDayStatus: document.getElementById('melbourne-day-status'),
     melbourneInput: document.getElementById('melbourne-input'),
-    melbourneDateInput: document.getElementById('melbourne-date'),
+    melbourneDateInput: document.getElementById('melbourne-date-input'),
 
     // Dhaka elements
     dhakaTime: document.getElementById('dhaka-time'),
@@ -34,7 +34,7 @@ const elements = {
     dhakaTz: document.getElementById('dhaka-tz'),
     dhakaDayStatus: document.getElementById('dhaka-day-status'),
     dhakaInput: document.getElementById('dhaka-input'),
-    dhakaDateInput: document.getElementById('dhaka-date'),
+    dhakaDateInput: document.getElementById('dhaka-date-input'),
 
     // Other elements
     timeDiff: document.getElementById('time-diff'),
